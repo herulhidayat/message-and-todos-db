@@ -3,6 +3,7 @@
     { 
       "inboxId": 1,
       "title": "Group Belajar Ngoding",
+      "participant": "3",
       "chat": [
         {
           "chatId": 1,
@@ -37,6 +38,7 @@
     { 
       "inboxId": 2,
       "title": "Group Liburan",
+      "participant": "4",
       "chat": [
         {
           "chatId": 1,
@@ -72,6 +74,13 @@
           "name": "Alif",
           "message": "cuman wacana",
           "created_at": "2020-03-09T22:18:30.625Z"
+        },
+        {
+          "chatId": 6,
+          "userId": 4,
+          "name": "Atta",
+          "message": "Yahhh batal",
+          "created_at": "2020-03-09T22:18:31.625Z"
         }
       ] 
     }
