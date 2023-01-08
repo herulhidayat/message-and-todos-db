@@ -87,7 +87,7 @@
     {
       "id": 2,
       "title": "kerja web",
-      "completed": false,
+      "completed": true,
       "created_at": "01/08/2023",
       "notes": "Perbaiki bug halaman admin"
     }
